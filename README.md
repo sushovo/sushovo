@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **Tableau and Odoo**
 
-- 📫 How to reach me **shakibuddinshovo@gmail.com**
+- 📫 Reach me **shakibuddinshovo@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
