@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakib Uddin Shovo</h1>
-<h3 align="center">Jr. Data Analyst & Software Development | Tableau | Odoo Developer & Consultant | Python | Sql</h3>
+<h3 align="center">Jr. Data Analyst & Software Developer | Tableau | Odoo Developer & Consultant | Python | Sql</h3>
 
 - 🌱 I’m currently learning **Tableau and Odoo**
 
